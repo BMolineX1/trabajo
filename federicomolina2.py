@@ -3,7 +3,7 @@ import mysql.connector
 conex = mysql.connector.connect(# conecta python con mysql
     host = "localhost",
     user = "root",
-    password = "1557590fnmolina",
+    password = "",
     port = "3306",
     database = "cajero_automatico",
 )
